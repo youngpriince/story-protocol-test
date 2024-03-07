@@ -1,0 +1,10 @@
+{
+  "name": "story-protocol",
+  "version": "1.0.0",
+  "description": "A Smart Contract on Story Protocol",
+  "main": "index.js",
+  "repository": "https://github.com/youngpriince/story-protocol-test",
+  "author": "youngprince",
+  "license": "UNLICENSED",
+  "private": null
+}
